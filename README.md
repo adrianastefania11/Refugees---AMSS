@@ -17,6 +17,9 @@ Adriana Maxim
 
 ![RefugeesClassDiagram drawio (2)](https://github.com/adrianastefania11/Refugees---AMSS/assets/79542005/0bc3ec5f-8e9e-48ee-b722-78ef9e236449)
 
+### Diagrama de activitate
+![RefugeesActivityDiagram drawio](https://github.com/adrianastefania11/Refugees---AMSS/assets/79542005/47aba1a4-1d23-4a2b-acd4-6fdee06f258b)
+
 
 Alice-Maria Pirvulescu
 
