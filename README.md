@@ -16,3 +16,10 @@ Adriana Maxim
 ### Diagrama de clase
 
 ![RefugeesClassDiagram drawio (2)](https://github.com/adrianastefania11/Refugees---AMSS/assets/79542005/0bc3ec5f-8e9e-48ee-b722-78ef9e236449)
+
+
+Alice-Maria Pirvulescu
+
+Use Case Diagram (Behavioural)
+![image](https://github.com/adrianastefania11/Refugees---AMSS/assets/63742125/9eb3c759-dc0f-441f-bb5e-ed86704f570e)
+
