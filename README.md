@@ -8,7 +8,7 @@
 
 
 ## Diagrama de stare
-![AMSS drawio (1)](https://github.com/adrianastefania11/Refugees---AMSS/assets/79542005/0a8fe459-4256-4742-83e0-d975ca1ad659)
+![AMSS drawio (2)](https://github.com/adrianastefania11/Refugees---AMSS/assets/79542005/afdd8468-b27d-42ab-81f7-e60afc6a1c7c)
 
 ## Diagrame individuale
 Adriana Maxim
