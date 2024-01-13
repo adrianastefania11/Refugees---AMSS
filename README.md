@@ -15,4 +15,4 @@ Adriana Maxim
 
 ### Diagrama de clase
 
-![RefugeesClassDiagram drawio (1)](https://github.com/adrianastefania11/Refugees---AMSS/assets/79542005/7b8d8377-ba22-4283-bf0c-7d909d113e50)
+![RefugeesClassDiagram drawio (2)](https://github.com/adrianastefania11/Refugees---AMSS/assets/79542005/0bc3ec5f-8e9e-48ee-b722-78ef9e236449)
