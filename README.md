@@ -20,6 +20,11 @@ Adriana Maxim
 
 Alice-Maria Pirvulescu
 
-Use Case Diagram (Behavioural)
+### Diagrama use case
 ![image](https://github.com/adrianastefania11/Refugees---AMSS/assets/63742125/9eb3c759-dc0f-441f-bb5e-ed86704f570e)
+
+### Diagrama de pachete
+
+![image](https://github.com/adrianastefania11/Refugees---AMSS/assets/63742125/82da77a5-82c0-44b6-96fb-c8d5ac39f522)
+
 
