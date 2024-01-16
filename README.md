@@ -2,6 +2,7 @@
 
 + O platformă online pentru refugiați, unde aceștia pot căuta și rezerva locuințe în mod simplu și eficient. Interfața intuitivă permite utilizatorilor să exploreze diverse opțiuni de cazare, să filtreze rezultatele în funcție de preferințe și să realizeze rezervări sigure și rapide. 
   **Funcționalități**
+  
    1. **Înregistrare/Conectare (Register/Login):**
    - Utilizatorii pot crea conturi noi sau se pot autentifica în platformă utilizând datele lor de acces.
 
