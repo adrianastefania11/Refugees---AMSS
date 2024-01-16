@@ -60,29 +60,29 @@ Am folosit proxi-urile dinamice JDK și a proxy-urilor CGLIB pentru a implementa
 
 **Entități**
 
- *House* - Acest tabel stochează informații despre casele disponibile pentru rezervare. 
-&emsp;id: identificator unic pentru fiecare casă.
-&emsp;name, description, city, address, phone: detalii de bază despre casă.
-&emsp;latitude, longitude: coordonate geografice pentru locația casei.
-&emsp;image: referință la o imagine a casei.
-&emsp;capacity: numărul de persoane pe care casa le poate găzdui.
-&emsp;bookingPeriod: intervalul de timp în care casa este disponibilă pentru rezervare.
-&emsp;owner: referință la entitatea User care deține casa.
- *Booking* - Reprezintă rezervările făcute de utilizatori. 
-&emsp;id: identificator unic pentru fiecare rezervare.
-&emsp;startDate, endDate: datele de început și sfârșit pentru perioada rezervării.
-&emsp;guestPhone, guestMessage: contactul și un mesaj opțional din partea clientului.
-&emsp;house: legătura cu casa care a fost rezervată.
-&emsp;guest: legătura cu utilizatorul care a făcut rezervarea.
-*User* - Stochează informații despre utilizatorii aplicației.
-&emsp;id: identificator unic pentru fiecare utilizator.
-&emsp;username, email, role: informații de autentificare și rolul utilizatorului (de exemplu, dacă este un client sau manager).
-&emsp;providerId, provider: detalii despre furnizorul de autentificare, dacă se utilizează servicii externe pentru autentificare.
-&emsp;imageUrl: legătura către o imagine de profil a utilizatorului.
-*ItemControl* - Acest tabel folosit pentru a controla anumite aspecte ale rezervărilor. 
-&emsp;id: identificator unic.
-&emsp;currentBookingsCount, oldBookingsCount: numere care ar putea reprezenta numărul curent și cel istoric de rezervări.
-&emsp;owner: legătura cu utilizatorul care deține controlul asupra acestui element.
+ *House* - Acest tabel stochează informații despre casele disponibile pentru rezervare.<br /> 
+&emsp;id: identificator unic pentru fiecare casă.<br />
+&emsp;name, description, city, address, phone: detalii de bază despre casă.<br />
+&emsp;latitude, longitude: coordonate geografice pentru locația casei.<br />
+&emsp;image: referință la o imagine a casei.<br />
+&emsp;capacity: numărul de persoane pe care casa le poate găzdui.<br />
+&emsp;bookingPeriod: intervalul de timp în care casa este disponibilă pentru rezervare.<br />
+&emsp;owner: referință la entitatea User care deține casa.<br />
+ *Booking* - Reprezintă rezervările făcute de utilizatori.<br /> 
+&emsp;id: identificator unic pentru fiecare rezervare.<br />
+&emsp;startDate, endDate: datele de început și sfârșit pentru perioada rezervării.<br />
+&emsp;guestPhone, guestMessage: contactul și un mesaj opțional din partea clientului.<br />
+&emsp;house: legătura cu casa care a fost rezervată.<br />
+&emsp;guest: legătura cu utilizatorul care a făcut rezervarea.<br />
+*User* - Stochează informații despre utilizatorii aplicației.<br />
+&emsp;id: identificator unic pentru fiecare utilizator.<br />
+&emsp;username, email, role: informații de autentificare și rolul utilizatorului (de exemplu, dacă este un client sau manager).<br />
+&emsp;providerId, provider: detalii despre furnizorul de autentificare, dacă se utilizează servicii externe pentru autentificare.<br />
+&emsp;imageUrl: legătura către o imagine de profil a utilizatorului.<br />
+*ItemControl* - Acest tabel folosit pentru a controla anumite aspecte ale rezervărilor.<br /> 
+&emsp;id: identificator unic.<br />
+&emsp;currentBookingsCount, oldBookingsCount: numere care ar putea reprezenta numărul curent și cel istoric de rezervări.<br />
+&emsp;owner: legătura cu utilizatorul care deține controlul asupra acestui element.<br />
 
 ## Diagrame individuale
 Adriana Maxim
