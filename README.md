@@ -105,3 +105,11 @@ Alice-Maria Pirvulescu
 ![image](https://github.com/adrianastefania11/Refugees---AMSS/assets/63742125/82da77a5-82c0-44b6-96fb-c8d5ac39f522)
 
 
+Mihaela - Alexandra Danila
+
+### Diagrama de componente
+
+![Diagrama_componente_frontend](https://github.com/adrianastefania11/Refugees---AMSS/blob/main/Diagrama_de_componente_frontend.jpeg)
+
+### Diagrama de activitate
+![Diagrama_pachete_frontend](https://github.com/adrianastefania11/Refugees---AMSS/blob/main/Diagrama_de_pachete_frontend.jpeg)
