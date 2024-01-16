@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1f41649-f364-4ef2-bfb5-079d588e036c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/apps/mocks/houses.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mocks/login.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mocks/reservations.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mocks/restaurant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mocks/restaurants.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mocks/reviews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful-e2e/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful-e2e/cypress.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful-e2e/project.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful-e2e/src/fixtures/example.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful-e2e/src/integration/app.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful-e2e/src/support/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful-e2e/src/support/commands.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful-e2e/src/support/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful-e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful/project.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful/src/app/nx-welcome.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful/src/app/reducers.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful/src/app/routes.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful/src/app/store.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful/src/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/mycontentful/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest.preset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/project.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/app/authentication.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/app/authentication.spec.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/app/authentication.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/global-error-handler/global-error-handler.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/DataViewDemo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/Map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/account-guest.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/account-owner.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/booking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/bookings-guest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/bookings-owner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/customized-map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/header-guest.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/header-logged-out.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/header-owner.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/houses-guest.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/icons/fast-food.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/icons/food_icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/icons/google-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/icons/house.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/icons/restaurant-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/icons/warning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/login.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/my-houses.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/new-house.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/preferences.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/refugees.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/register.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/select-role.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/login/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/oauth2/OauthRedirect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/redux/payloads.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/redux/reponses.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/containers/redux/slice.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/tsconfig.lib.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/authentication/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/generators/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/tsconfig.tools.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.base.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/apps/mycontentful/src/assets/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/authentication/login.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes.tsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2azCi63u4OrcX3GnKfXUyzdLgl6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "frontend",
+    "last_opened_file_path": "C:/amss/Refugees---AMSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\amss\\Refugees---AMSS\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+        <entry key="com.haulmont.rcb.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\amss\Refugees---AMSS" />
+      <recent name="C:\amss\Refugees---AMSS\apps" />
+      <recent name="C:\amss\Refugees---AMSS\apps\libs\authentication\app" />
+      <recent name="C:\amss\Refugees---AMSS\apps\libs\authentication\app\authentication" />
+      <recent name="C:\amss\Refugees---AMSS\src\assets\icons" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\amss\Refugees---AMSS\apps\libs\authentication\app\authentication" />
+      <recent name="C:\amss\Refugees---AMSS\src\apis\services" />
+      <recent name="C:\amss\Refugees---AMSS\src\apis\services\api-calls" />
+      <recent name="C:\amss\Refugees---AMSS\src\apis\data" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1f41649-f364-4ef2-bfb5-079d588e036c" name="Changes" comment="" />
+      <created>1705312144276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705312144276</updated>
+      <workItem from="1705312145350" duration="10024000" />
+      <workItem from="1705393600111" duration="181000" />
+      <workItem from="1705393793888" duration="1282000" />
+      <workItem from="1705395114780" duration="925000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
