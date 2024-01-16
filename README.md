@@ -1,7 +1,30 @@
 #  Aplicatie Refugees---AMSS
 
-+ O platforma de acomodare a persoanelor in nevoie. 
-+ Functionalitati: Register/Login , Adaugare case, cautarea caselor in anumite locatii, creearea unei cereri de hosting, updatarea statusului cererii, vizualizarea listei de cereri si case in functie de rolul userului cu care esti autentificat pe platforma (manager sau client)
++ O platformă online pentru refugiați, unde aceștia pot căuta și rezerva locuințe în mod simplu și eficient. Interfața intuitivă permite utilizatorilor să exploreze diverse opțiuni de cazare, să filtreze rezultatele în funcție de preferințe și să realizeze rezervări sigure și rapide. 
++ Funcționalități:
+   1. **Înregistrare/Conectare (Register/Login):**
+   - Utilizatorii pot crea conturi noi sau se pot autentifica în platformă utilizând datele lor de acces.
+
+2. **Adăugare Case:**
+   - Utilizatorii cu rolul de gazdă (manager) pot adăuga informații despre locuințele disponibile pentru refugiați, inclusiv fotografii, descrieri și facilități.
+
+3. **Căutare Case în Anumite Locații:**
+   - Utilizatorii pot căuta locuințe disponibile în funcție de locație, utilizând filtre și criterii precum orașul sau zona dorită.
+
+4. **Crearea unei Cereri de Hosting:**
+   - Utilizatorii cu rolul de refugiat (client) pot crea cereri de găzduire, specificând detalii precum numărul de persoane, perioada dorită și alte necesități.
+
+5. **Actualizarea Statusului Cererii:**
+   - Utilizatorii pot actualiza starea cererilor lor de găzduire, precum confirmarea, respingerea sau modificarea detaliilor acesteia.
+
+6. **Vizualizarea Listei de Cereri și Case:**
+   - Utilizatorii pot vizualiza o listă cu toate cererile de găzduire și locuințele disponibile în funcție de rolul lor (manager sau client).
+
+7. **Gestionați Cererile și Casele în Funcție de Rolul Utilizatorului:**
+   - Utilizatorii cu rol de manager pot să gestioneze cererile de găzduire, să aprobe sau să respingă cereri și să actualizeze informațiile despre locuințe.
+   - Utilizatorii cu rol de client pot să vizualizeze starea cererilor lor și să exploreze locuințele disponibile pentru a face rezervări.
+
+Aceste funcționalități oferă o experiență comprehensivă și eficientă pentru utilizatorii platformei, facilitând procesul de conectare și colaborare între gazde și refugiați.
 
 + Tehnologii folosite: Java, Spring, React, SQL Server Management Studio, Docker
 + Pentru realizarea diagramelor: app.diagrams
